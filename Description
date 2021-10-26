@@ -1,0 +1,2 @@
+Built various models to predict whether a celestial body is a planet or not. Used many algorithms like logistic regression, discriminant analysis, K-Nearest Neighbors, Decision Trees.
+The jupyter notebook has detailed description.
